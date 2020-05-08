@@ -1,0 +1,25 @@
+.sidebar{
+  width:30%;
+  background-color:#E9D5F4;
+  float:right;
+}
+
+img{
+    float:left;
+  }
+
+h1{
+  color:#401B55;
+  text-align:center;
+}
+h2{
+  background-color:#E9D5F4;
+  font-style:italic;
+  font-weight:bold;
+  color:#6A1E2B;
+  text-align:center;
+}
+h3{
+  color:#401B55;
+  font-family:cursive;
+}
